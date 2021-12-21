@@ -12,10 +12,10 @@ https://book.mynavi.jp/supportsite/detail/9784839960223.html
 https://gihyo.jp/book/2021/978-4-297-12117-4/support
 
 ### Udemy
-Python
-html
-YOGA
-AfterEffects
+* Python
+* html
+* YOGA
+* AfterEffects
 
 ## READMEのページURL
 https://a-mizuta.github.io/test_mizuta/
